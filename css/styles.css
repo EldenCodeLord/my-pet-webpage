@@ -1,0 +1,28 @@
+img {
+  text-align:center;
+} 
+div.background {
+  background-color: teal;
+}
+
+h1 {
+  text-align: center;
+  color: slateblue;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: plum;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+div.center {
+  float: center;
+  text-align: center;
+}
