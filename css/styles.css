@@ -1,7 +1,7 @@
 img {
   text-align:center;
 } 
-div.background {
+.background {
   background-color: teal;
 }
 
@@ -12,7 +12,7 @@ h1 {
 
 h2 {
   text-align: center;
-  color: black;
+  color: rgb(207, 104, 248);
 }
 
 p {
@@ -22,7 +22,12 @@ p {
   font-family: sans-serif;
 }
 
-div.center {
-  float: center;
+.important {
+  color: rgb(155, 17, 155);
+  font-family: sans-serif;
+}
+
+.center {
   text-align: center;
+  font-family: italic;
 }
