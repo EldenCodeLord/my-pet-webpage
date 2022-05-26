@@ -31,3 +31,19 @@ p {
   text-align: center;
   font-family: italic;
 }
+
+img {
+  float: center;
+}
+
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: rgb(219, 27, 27);
+  text-align: center;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
